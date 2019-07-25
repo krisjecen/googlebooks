@@ -1,3 +1,7 @@
+# Google Books Search - React App
+This app is under construction. You can view the app on Heroku here:
+https://books-involve-reactions.herokuapp.com/
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
